@@ -10,7 +10,7 @@ Not secure at all really
 '''
 
 import time
-from classtest import emailBot
+from emailBot import emailBot
 
 mailBot = emailBot("BOT EMAIL ACCOUNT", "BOT EMAIL PASSWORD")
 
